@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RingR</string>
+    <string name="general">GENERAL</string>
+    <string name="vibration">VIBRATION</string>
+    <string name="silent">SILENT</string>
+    <string name="select_contact">Select contact</string>
+</resources>
